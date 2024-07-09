@@ -10,7 +10,7 @@ body {
 
 /* Estilos para o cabeçalho */
 header {
-  background-color: #0074d9;
+  background-color: #047ae0;
   color: #fff;
   padding: 1rem;
   text-align: center;
@@ -32,7 +32,7 @@ header a {
 
 /* Estilos para os links */
 a {
-  color: #333;
+  color: #444;
   text-decoration: none;
   transition: opacity 0.3s;
 }
@@ -43,7 +43,7 @@ a:hover {
 
 /* Estilos para os botões de favoritar */
 .favorito-button {
-  background-color: #ff4136;
+  background-color: #edd83b ;
   color: #fff;
   border: none;
   cursor: pointer;
@@ -58,7 +58,7 @@ a:hover {
 
 /* Estilos para o rodapé */
 footer {
-  background-color: #333;
+  background-color: #444;
   color: #fff;
   text-align: center;
   padding: 1rem;
